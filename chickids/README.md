@@ -1,4 +1,4 @@
-# New Project
+# ChickIds
 
 A Flutter application with comprehensive theme system, state management, and organized architecture.
 
