@@ -14,6 +14,7 @@ class OnboardingPage extends StatelessWidget {
       backgroundColor: AppColors.darkBackground,
       body: SafeArea(
         child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
           children: [
             // App Name Header
             Padding(
